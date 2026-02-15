@@ -1,0 +1,35 @@
+--   _____ ____  _____  ______ _  _____    _____  _____   ____  _____  _    _ ______          _   _______ _    _ 
+--  / ____/ __ \|  __ \|  ____( )/ ____|  |  __ \|  __ \ / __ \|  __ \| |  | |  ____|   /\   | | |__   __| |  | |
+-- | |   | |  | | |__) | |__  |/| (___    | |__) | |__) | |  | | |__) | |__| | |__     /  \  | |    | |  | |__| |
+-- | |   | |  | |  _  /|  __|    \___ \   |  ___/|  _  /| |  | |  ___/|  __  |  __|   / /\ \ | |    | |  |  __  |
+-- | |___| |__| | | \ \| |____   ____) |  | |    | | \ \| |__| | |    | |  | | |____ / ____ \| |____| |  | |  | |
+--  \_____\____/|_|  \_\______| |_____/   |_|    |_|  \_\\____/|_|    |_|  |_|______/_/    \_\______|_|  |_|  |_|
+--
+-- Thank you for using my addon <3
+-- Use it wisely...
+
+This is the initial version of Core's Prophealth, 1.0.0
+
+
+
+Featuring:
+
+- Players can increase their props health with just a click of a button!
+- Drag n' Drop; No configuration or additional content needed.
+- Customizable; Edit everything in-game through the UI.
+- Clean & modern UI; No framework/library is required.
+- Lightweight; Optimized to work on a large player base servers!
+
+For any inquiries or support please contact me through Discord (msoffice) or Rootapp (breadaise)
+A support Discord server will be made soon! Keep an eye out...
+
+
+
+In order to install it properly please follow the instructions:
+
+1. Log into your server directory
+2. Paste the "coreprophealth" folder into your addon folder of your server
+3. Restart the server (IMPORTANT)
+4. Type one of the following: !prophealthconfig, !prophealthreload (<- to reload the addon configuration)
+5. Customize the addon through configuration (Prop Reinforcement toolmenu / !prophealthconfig) or in-game!
+6. Enjoy the addon!
